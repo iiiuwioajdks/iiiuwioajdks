@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iiiuwioajdks
 - 👀 I’m interested in database and distributed system
-- 🌱 I’m currently learning cmu15-445 and leveldb
+- 🌱 I’m currently learning cmu15-445、leveldb and Redis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
